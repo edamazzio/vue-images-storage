@@ -1,0 +1,12 @@
+IMGUR
+
+Client ID
+a7d989b770cf6d5
+
+Client secret
+02bfa713187d51bee83959dd7d3fcebc19edd3f5
+
+
+https://api.imgur.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&response_type=token&state=APPLICATION_STATE
+
+http://192.168.0.3:8080/oauth2/callback#access_token=05222f187f3b51480aa4ab993197d5e08f1fcdae&expires_in=315360000&token_type=bearer&refresh_token=250eee220226470666dc5b44a5b176d64ef50dc9&account_username=edamazzio&account_id=155212589
